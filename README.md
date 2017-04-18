@@ -1,2 +1,2 @@
 # test
-use test repo
+test
